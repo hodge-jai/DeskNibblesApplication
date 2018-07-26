@@ -1,5 +1,5 @@
 # DeskNibblesApplication
-Quick and easy solution to a programming challenge that is part of a job application
+Quick and easy solution to a programming challenge that is part of a job application. Solution is implemented in python3.
 
 Challenge
 **************
